@@ -1,0 +1,1130 @@
+﻿Log file open, 11/06/17 16:16:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Oroboros
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1800107867) SRandInit(-1800107867).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.595973
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.07-00.16.14:143][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-00.16.14:143][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.07-00.16.14:424][  0]LogInit: Computer: DESKTOP-3MUQ1P5
+[2017.11.07-00.16.14:424][  0]LogInit: User: Arakk
+[2017.11.07-00.16.14:424][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.07-00.16.14:424][  0]LogInit: High frequency timer resolution =2.338444 MHz
+[2017.11.07-00.16.14:452][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.11.07-00.16.14:453][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.07-00.16.14:453][  0]LogMemory: Process Physical Memory: 274.70 MB used, 274.70 MB peak
+[2017.11.07-00.16.14:453][  0]LogMemory: Process Virtual Memory: 269.59 MB used, 269.59 MB peak
+[2017.11.07-00.16.14:453][  0]LogMemory: Physical Memory: 5495.80 MB used,  2649.16 MB free, 8144.97 MB total
+[2017.11.07-00.16.14:453][  0]LogMemory: Virtual Memory: 630.30 MB used,  2649.16 MB free, 134217728.00 MB total
+[2017.11.07-00.16.17:854][  0]LogInit: Using OS detected language (en-US).
+[2017.11.07-00.16.17:854][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.07-00.16.18:366][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.07-00.16.20:085][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.07-00.16.28:262][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.07-00.16.28:973][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660M' (Feature Level 11_0)
+[2017.11.07-00.16.28:973][  0]LogD3D11RHI:       2017/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.07-00.16.28:998][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.07-00.16.28:998][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.07-00.16.28:998][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.07-00.16.29:003][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.07-00.16.29:004][  0]LogD3D11RHI:     GPU DeviceId: 0xfd4 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.07-00.16.29:004][  0]LogWindows: EnumDisplayDevices:
+[2017.11.07-00.16.29:004][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660M' (P:1 D:1)
+[2017.11.07-00.16.29:004][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660M' (P:0 D:0)
+[2017.11.07-00.16.29:005][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660M' (P:0 D:0)
+[2017.11.07-00.16.29:005][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660M' (P:0 D:0)
+[2017.11.07-00.16.29:005][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.07-00.16.29:005][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660M
+[2017.11.07-00.16.29:005][  0]LogD3D11RHI:   Driver Version: 376.09 (internal:21.21.13.7609, unified:376.09)
+[2017.11.07-00.16.29:005][  0]LogD3D11RHI:      Driver Date: 11-24-2016
+[2017.11.07-00.16.29:005][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2017.11.07-00.16.29:887][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.07-00.16.30:514][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.07-00.16.30:731][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Intermediate/Shaders/WorkingDirectory/7780/).
+[2017.11.07-00.16.30:731][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Arakk/AppData/Local/Temp/UnrealShaderWorkingDir/2C0D00DF452CF6AE657032A5B3152E32/'.
+[2017.11.07-00.16.30:738][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.07-00.16.43:219][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.07-00.16.43:378][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.07-00.16.43:657][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.07-00.16.43:902][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.07-00.16.44:199][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.07-00.16.44:435][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.07-00.16.44:599][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.07-00.16.44:751][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.07-00.16.44:891][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.07-00.16.45:132][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.07-00.16.45:315][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.07-00.16.45:483][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.07-00.16.45:785][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.07-00.16.46:017][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.07-00.16.46:530][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.07-00.16.46:530][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.07-00.16.46:703][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.07-00.16.46:834][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.07-00.16.47:141][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.07-00.16.47:218][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.07-00.16.47:365][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.07-00.16.47:490][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.07-00.16.47:623][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.07-00.16.47:833][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.07-00.16.47:833][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.07-00.16.50:589][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.07-00.16.50:589][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2017.11.07-00.16.50:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.07-00.16.50:589][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.07-00.16.50:589][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.07-00.16.50:589][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.07-00.16.50:656][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.07-00.16.50:685][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Arakk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.07-00.16.50:851][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.07-00.16.50:900][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.07-00.16.50:961][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-00.16.50:976][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-00.16.58:555][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-00.17.00:324][  0]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.11.07-00.17.55:760][  0]LogMaterial: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling. 
+[2017.11.07-00.18.07:022][  0]LogMaterial: Missing cached shader map for material DefaultLightFunctionMaterial, compiling. 
+[2017.11.07-00.18.08:401][  0]LogMaterial: Missing cached shader map for material DefaultPostProcessMaterial, compiling. 
+[2017.11.07-00.18.10:601][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.07-00.18.10:751][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.07-00.18.10:751][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.07-00.18.10:751][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.07-00.18.10:751][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.07-00.18.10:751][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.07-00.18.11:109][  0]LogMaterial: Missing cached shader map for material MatineeCam_mat, compiling. 
+[2017.11.07-00.18.12:152][  0]LogNetVersion: Oroboros , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3242610799)
+[2017.11.07-00.18.12:826][  0]LogMaterial: Missing cached shader map for material HelpActorMaterial, compiling. 
+[2017.11.07-00.18.14:861][  0]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2017.11.07-00.18.16:023][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2017.11.07-00.18.16:362][  0]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2017.11.07-00.18.16:618][  0]LogMaterial: Missing cached shader map for material Main, compiling. 
+[2017.11.07-00.18.18:970][  0]LogMaterial: Missing cached shader map for material TransformGizmoMaterial, compiling. 
+[2017.11.07-00.18.19:133][  0]LogMaterial: Missing cached shader map for material SnapGridMaterial, compiling. 
+[2017.11.07-00.18.19:313][  0]LogMaterial: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling. 
+[2017.11.07-00.18.21:472][  0]LogMaterial: Missing cached shader map for material CineMat, compiling. 
+[2017.11.07-00.18.22:934][  0]LogMaterial: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2017.11.07-00.18.23:382][  0]LogMaterial: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2017.11.07-00.18.25:661][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2017.11.07-00.18.25:884][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2017.11.07-00.18.26:077][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2017.11.07-00.18.26:206][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2017.11.07-00.18.26:332][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2017.11.07-00.18.26:471][  0]LogMaterial: Missing cached shader map for material Widget3DPassThrough, compiling. 
+[2017.11.07-00.18.29:318][  0]LogMaterial: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2017.11.07-00.18.29:553][  0]LogMaterial: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2017.11.07-00.18.31:739][  0]LogMaterial: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2017.11.07-00.18.31:939][  0]LogMaterial: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2017.11.07-00.18.32:322][  0]LogMaterial: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2017.11.07-00.18.32:738][  0]LogMaterial: Missing cached shader map for material ARKitCameraMaterial, compiling. 
+[2017.11.07-00.18.33:145][  0]LogMaterial: Missing cached shader map for material GearVRControllerMaterial, compiling. 
+[2017.11.07-00.18.33:824][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.525166 seconds
+[2017.11.07-00.18.34:065][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.07-00.18.34:066][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.07-00.18.34:066][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.07-00.18.34:349][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.07-00.19.25:436][  0]LogMaterial: Missing cached shader map for material KeyDiskMaterial, compiling. 
+[2017.11.07-00.19.25:560][  0]LogMaterial: Missing cached shader map for material M_ContentWindow, compiling. 
+[2017.11.07-00.19.25:857][  0]LogMaterial: Missing cached shader map for material GenericHMDMaterial, compiling. 
+[2017.11.07-00.19.25:957][  0]LogMaterial: Missing cached shader map for material TeleportDirectionMaterial, compiling. 
+[2017.11.07-00.19.26:037][  0]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.11.07-00.19.26:092][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2017.11.07-00.19.26:181][  0]LogMaterial: Missing cached shader map for material FlattenHeightMat, compiling. 
+[2017.11.07-00.19.26:268][  0]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2017.11.07-00.19.26:373][  0]LogMaterial: Missing cached shader map for material VivePreControllerMaterial, compiling. 
+[2017.11.07-00.19.26:467][  0]LogMaterial: Missing cached shader map for material OculusControllerMaterial, compiling. 
+[2017.11.07-00.19.26:564][  0]LogMaterial: Missing cached shader map for material GridPostProcess, compiling. 
+[2017.11.07-00.19.26:731][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2017.11.07-00.19.26:828][  0]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2017.11.07-00.19.26:965][  0]LogMaterial: Missing cached shader map for material LineMaterial, compiling. 
+[2017.11.07-00.19.27:056][  0]LogMaterial: Missing cached shader map for material VRTextMaterial, compiling. 
+[2017.11.07-00.19.31:692][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2017.11.07-00.19.31:775][  0]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2017.11.07-00.19.34:236][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2017.11.07-00.19.34:482][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.07-00.19.34:700][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.07-00.19.36:729][  0]LogMaterial: Missing cached shader map for material DefaultMaterial, compiling. 
+[2017.11.07-00.19.39:762][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.11.07-00.19.39:845][  0]LogMaterial: Missing cached shader map for material CustomDepth, compiling. 
+[2017.11.07-00.19.39:970][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.07-00.19.40:019][  0]LogMaterial: Missing cached shader map for material CustomStencil, compiling. 
+[2017.11.07-00.19.40:081][  0]LogMaterial: Missing cached shader map for material FinalImage, compiling. 
+[2017.11.07-00.19.40:172][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.11.07-00.19.40:251][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.11.07-00.19.40:319][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.11.07-00.19.40:396][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.11.07-00.19.40:488][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.11.07-00.19.40:539][  0]LogMaterial: Missing cached shader map for material SceneColor, compiling. 
+[2017.11.07-00.19.40:622][  0]LogMaterial: Missing cached shader map for material SceneDepth, compiling. 
+[2017.11.07-00.19.40:695][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2017.11.07-00.19.40:733][  0]LogMaterial: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2017.11.07-00.19.40:831][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.11.07-00.19.40:910][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.11.07-00.19.40:992][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.11.07-00.19.41:097][  0]LogMaterial: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2017.11.07-00.19.41:229][  0]LogMaterial: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2017.11.07-00.19.41:329][  0]LogMaterial: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2017.11.07-00.19.41:424][  0]LogMaterial: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2017.11.07-00.19.41:516][  0]LogMaterial: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2017.11.07-00.19.43:552][  0]SourceControl: Source control is disabled
+[2017.11.07-00.19.43:552][  0]SourceControl: Source control is disabled
+[2017.11.07-00.19.43:900][  0]SourceControl: Source control is disabled
+[2017.11.07-00.19.44:224][  0]SourceControl: Source control is disabled
+[2017.11.07-00.19.48:400][  0]LogMaterial: Missing cached shader map for material DefaultMediaPlaneMaterial, compiling. 
+[2017.11.07-00.19.50:023][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.07-00.19.51:355][  0]LogOcInput: OculusInput pre-init called
+[2017.11.07-00.19.53:164][  0]LogMaterial: Missing cached shader map for material HighResScreenshot, compiling. 
+[2017.11.07-00.19.53:224][  0]LogMaterial: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2017.11.07-00.19.53:302][  0]LogMaterial: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2017.11.07-00.19.53:942][  0]LogEngine: Initializing Engine...
+[2017.11.07-00.19.53:979][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.07-00.19.54:037][  0]LogMaterial: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2017.11.07-00.19.54:574][  0]LogMaterial: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2017.11.07-00.19.55:848][  0]LogMaterial: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2017.11.07-00.19.56:312][  0]LogMaterial: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2017.11.07-00.19.57:577][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2017.11.07-00.19.58:858][  0]LogMaterial: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2017.11.07-00.19.59:252][  0]LogMaterial: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2017.11.07-00.19.59:448][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2017.11.07-00.19.59:678][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2017.11.07-00.19.59:719][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2017.11.07-00.19.59:796][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2017.11.07-00.19.59:878][  0]LogMaterial: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2017.11.07-00.19.59:950][  0]LogMaterial: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2017.11.07-00.20.00:049][  0]LogMaterial: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2017.11.07-00.20.00:140][  0]LogMaterial: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2017.11.07-00.20.00:386][  0]LogMaterial: Missing cached shader map for material GizmoMaterial, compiling. 
+[2017.11.07-00.20.00:534][  0]LogMaterial: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2017.11.07-00.20.00:811][  0]LogMaterial: Missing cached shader map for material GeomMaterial, compiling. 
+[2017.11.07-00.20.00:905][  0]LogMaterial: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2017.11.07-00.20.01:041][  0]LogMaterial: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2017.11.07-00.20.01:298][  0]LogMaterial: Missing cached shader map for material ClothMaterial, compiling. 
+[2017.11.07-00.20.01:374][  0]LogMaterial: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2017.11.07-00.20.01:443][  0]LogMaterial: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2017.11.07-00.20.01:553][  0]LogMaterial: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2017.11.07-00.20.05:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.07-00.20.05:519][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.07-00.20.09:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-00.20.10:346][  0]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.20.10:652][  0]LogInit: FAudioDevice initialized.
+[2017.11.07-00.20.11:004][  0]LogDerivedDataCache: Saved boot cache 0.33s 69MB C:/Users/Arakk/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.07-00.20.11:014][  0]LogInit: Texture streaming: Enabled
+[2017.11.07-00.20.11:646][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.07-00.20.12:613][  0]LogInit: Transaction tracking system initialized
+[2017.11.07-00.20.14:487][  0]BlueprintLog: New page: Editor Load
+[2017.11.07-00.20.20:134][  0]LocalizationService: Localization service is disabled
+[2017.11.07-00.20.24:162][  0]LogConsoleResponse: Display: 
+[2017.11.07-00.20.25:238][  0]LogMaterial: Missing cached shader map for material Cross_Mat, compiling. 
+[2017.11.07-00.20.25:362][  0]LogMaterial: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2017.11.07-00.20.25:498][  0]LogMaterial: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2017.11.07-00.20.25:553][  0]LogMaterial: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2017.11.07-00.20.25:638][  0]LogMaterial: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2017.11.07-00.20.25:922][  0]LogMaterial: Missing cached shader map for material Tick_Mat, compiling. 
+[2017.11.07-00.20.26:006][  0]LogMaterial: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2017.11.07-00.20.26:111][  0]LogMaterial: Missing cached shader map for material WidgetMaterial, compiling. 
+[2017.11.07-00.20.26:371][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2017.11.07-00.20.26:482][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2017.11.07-00.20.26:616][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2017.11.07-00.20.26:865][  0]LogMaterial: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2017.11.07-00.20.26:957][  0]LogMaterial: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2017.11.07-00.20.27:292][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2017.11.07-00.20.28:090][  0]LogMaterial: Missing cached shader map for material BlinkingCaret, compiling. 
+[2017.11.07-00.20.28:988][  0]LogMaterial: Missing cached shader map for material M_StreamingPause, compiling. 
+[2017.11.07-00.20.29:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/' took 0.05s
+[2017.11.07-00.20.29:369][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.07-00.20.29:370][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.07-00.20.29:370][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.07-00.20.35:780][  0]SourceControl: Source control is disabled
+[2017.11.07-00.20.35:815][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-00.20.35:821][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.07-00.20.35:839][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-00.20.36:102][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 262.67ms to complete.
+[2017.11.07-00.20.36:102][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.300
+[2017.11.07-00.20.39:681][  0]LogCollectionManager: Loaded 0 collections in 0.005047 seconds
+[2017.11.07-00.20.40:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Collections/' took 0.01s
+[2017.11.07-00.20.40:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Developers/Arakk/Collections/' took 0.01s
+[2017.11.07-00.20.40:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Collections/' took 0.01s
+[2017.11.07-00.20.40:136][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.07-00.20.40:201][  0]LogContentBrowser: Native class hierarchy populated in 0.0308 seconds. Added 2377 classes and 525 folders.
+[2017.11.07-00.20.40:493][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.11.07-00.20.42:192][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.07-00.20.42:526][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.07-00.20.43:456][  0]LogSlate: Took 0.018820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-00.20.43:481][  0]LogSlate: Took 0.021176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.07-00.20.43:560][  0]LogSlate: Took 0.013048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.07-00.20.44:521][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.11.07-00.20.44:853][  0]LogRenderer: Reallocating scene render targets to support 984x448 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-00.20.47:113][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.07-00.20.47:114][  0]LogLoad: (Engine Initialization) Total time: 296.92 seconds
+[2017.11.07-00.20.47:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.07-00.20.47:126][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.07-00.20.47:729][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.07-00.20.49:324][  5]LogAssetRegistry: Asset discovery search completed in 153.3230 seconds
+[2017.11.07-00.20.49:398][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.07-00.20.49:398][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000177 seconds (updated 0 objects)
+[2017.11.07-00.20.59:938][210]LogRenderer: Reallocating scene render targets to support 984x452 Format 10 NumSamples 1 (Frame:182).
+[2017.11.07-00.21.00:052][212]LogRenderer: Reallocating scene render targets to support 984x460 Format 10 NumSamples 1 (Frame:186).
+[2017.11.07-00.21.00:104][213]LogRenderer: Reallocating scene render targets to support 984x468 Format 10 NumSamples 1 (Frame:188).
+[2017.11.07-00.21.00:160][214]LogRenderer: Reallocating scene render targets to support 984x472 Format 10 NumSamples 1 (Frame:190).
+[2017.11.07-00.21.00:240][215]LogRenderer: Reallocating scene render targets to support 984x480 Format 10 NumSamples 1 (Frame:192).
+[2017.11.07-00.21.00:305][216]LogRenderer: Reallocating scene render targets to support 984x484 Format 10 NumSamples 1 (Frame:194).
+[2017.11.07-00.21.00:411][218]LogRenderer: Reallocating scene render targets to support 984x492 Format 10 NumSamples 1 (Frame:196).
+[2017.11.07-00.21.00:525][219]LogRenderer: Reallocating scene render targets to support 984x516 Format 10 NumSamples 1 (Frame:198).
+[2017.11.07-00.21.00:627][220]LogRenderer: Reallocating scene render targets to support 984x524 Format 10 NumSamples 1 (Frame:200).
+[2017.11.07-00.21.47:405][302]LogStaticMesh: Building static mesh SM_LockerDoor_pCube14...
+[2017.11.07-00.21.47:458][302]LogSlate: Took 0.011829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-00.21.47:541][302]LogStaticMesh: Built static mesh [0.20s] /Game/Oroboros/Statics/Michael/Locker/SM_LockerDoor_pCube14.SM_LockerDoor_pCube14
+[2017.11.07-00.21.47:708][302]LogMaterial: Missing cached shader map for material M_Invis, compiling. 
+[2017.11.07-00.21.47:799][302]LogStaticMesh: Building static mesh SM_LockerDoor_pCylinder3...
+[2017.11.07-00.21.47:823][302]LogStaticMesh: Built static mesh [0.05s] /Game/Oroboros/Statics/Michael/Locker/SM_LockerDoor_pCylinder3.SM_LockerDoor_pCylinder3
+[2017.11.07-00.21.48:921][302]LogSlate: Took 0.030383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-00.21.50:003][302]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2017.11.07-00.21.52:265][302]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.11.07-00.21.52:465][302]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.11.07-00.21.54:092][302]LogSlate: Took 0.011181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.07-00.21.55:219][303]LogSlate: Took 0.014850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.07-00.22.04:710][525]LogRenderer: Reallocating scene render targets to support 984x704 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-00.25.01:006][628]LogSlate: Took 0.079238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-00.25.22:638][690]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.07-00.25.22:664][690]Can't find target actor or component.
+[2017.11.07-00.25.27:261][ 13]EditorErrors: Warning: Map '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' does not exist.  It will be removed from the recent items list.
+[2017.11.07-00.28.28:268][711]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.07-00.28.28:831][711]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2017.11.07-00.28.28:943][711]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.07-00.28.29:062][711]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2017.11.07-00.28.29:167][711]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2017.11.07-00.28.29:321][711]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2017.11.07-00.28.29:425][711]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2017.11.07-00.28.29:718][711]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2017.11.07-00.28.29:776][711]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2017.11.07-00.28.29:885][711]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2017.11.07-00.28.30:110][711]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2017.11.07-00.28.30:227][711]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2017.11.07-00.28.30:374][711]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2017.11.07-00.28.30:545][711]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.07-00.28.30:678][711]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2017.11.07-00.28.30:786][711]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.07-00.28.30:917][711]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.07-00.28.31:061][711]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2017.11.07-00.28.31:163][711]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2017.11.07-00.28.31:417][711]LogMaterial: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2017.11.07-00.28.31:482][711]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2017.11.07-00.28.31:592][711]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2017.11.07-00.28.31:687][711]LogMaterial: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2017.11.07-00.28.32:102][711]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.07-00.28.32:102][711]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.07-00.28.32:273][711]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2017.11.07-00.28.32:376][711]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2017.11.07-00.28.32:435][711]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2017.11.07-00.28.32:509][711]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2017.11.07-00.28.32:572][711]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2017.11.07-00.28.32:705][711]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2017.11.07-00.28.32:797][711]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2017.11.07-00.28.32:856][711]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2017.11.07-00.28.32:972][711]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2017.11.07-00.28.33:224][711]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2017.11.07-00.28.33:305][711]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2017.11.07-00.28.33:395][711]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2017.11.07-00.28.33:481][711]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2017.11.07-00.28.33:570][711]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.07-00.28.33:649][711]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2017.11.07-00.28.33:737][711]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2017.11.07-00.28.33:822][711]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.11.07-00.28.33:908][711]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2017.11.07-00.28.33:979][711]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2017.11.07-00.28.34:070][711]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2017.11.07-00.28.34:209][711]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2017.11.07-00.28.34:658][711]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2017.11.07-00.28.34:795][711]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2017.11.07-00.28.34:872][711]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.11.07-00.28.34:973][711]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2017.11.07-00.28.35:160][711]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2017.11.07-00.28.35:241][711]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.11.07-00.28.35:299][711]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2017.11.07-00.28.35:367][711]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2017.11.07-00.28.35:492][711]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2017.11.07-00.28.35:638][711]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2017.11.07-00.28.35:724][711]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2017.11.07-00.28.35:832][711]LogAIModule: Creating AISystem for world StarterMap
+[2017.11.07-00.28.37:563][711]Cmd: MAP LOAD FILE="../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-00.28.37:589][711]LightingResults: New page: Lighting Build
+[2017.11.07-00.28.37:767][711]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2017.11.07-00.28.37:782][711]LoadErrors: New page: Loading map: StarterMap.umap
+[2017.11.07-00.28.37:906][711]MapCheck: New page: Map Check
+[2017.11.07-00.28.37:906][711]LightingResults: New page: Lighting Build
+[2017.11.07-00.28.38:578][711]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-00.28.38:753][711]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-00.28.39:081][711]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 327.505ms to complete.
+[2017.11.07-00.28.39:084][711]LogFileHelpers: Loading map 'StarterMap' took 1.590
+[2017.11.07-00.30.31:608][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.31:624][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:624][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2017.11.07-00.30.31:627][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.31:627][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:627][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/DamageVolume
+[2017.11.07-00.30.31:627][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.31:627][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:628][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.31:628][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:629][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.31:629][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:630][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.31:630][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:630][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.31:631][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:635][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-00.30.31:635][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.31:636][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2017.11.07-00.30.33:381][225]LogLinker: Warning: Can't find file '/Game/Oroboros/Statics/Reactor_Large01/lambert1'
+[2017.11.07-00.30.33:381][225]LogLinker: Warning: Can't find file for asset '/Game/Oroboros/Statics/Reactor_Large01/lambert1' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Oroboros/Statics/Matt/Wall_Modular/SM_ModularWall_Vent01.uasset.
+[2017.11.07-00.30.33:381][225]LoadErrors: Error: /Game/Oroboros/Statics/Matt/Wall_Modular/SM_ModularWall_Vent01 : Can't find file for asset. /Game/Oroboros/Statics/Reactor_Large01/lambert1
+[2017.11.07-00.30.33:382][225]LogLinker: Warning: Can't find file '/Game/Oroboros/Statics/Reactor_Large01/lambert1'
+[2017.11.07-00.30.33:382][225]LogLinker: Warning: Can't find file for asset '/Game/Oroboros/Statics/Reactor_Large01/lambert1' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Oroboros/Statics/Matt/Wall_Modular/SM_ModularWall_Vent01.uasset.
+[2017.11.07-00.30.33:398][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:398][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:398][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget'
+[2017.11.07-00.30.33:399][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:399][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/MinimapRenderTarget
+[2017.11.07-00.30.33:399][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:399][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:399][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-00.30.33:400][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:401][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:401][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:401][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:402][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:402][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:403][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:417][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget'
+[2017.11.07-00.30.33:418][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:418][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:418][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap.
+[2017.11.07-00.30.33:439][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:439][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:439][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:439][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:440][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:440][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:440][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:440][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:441][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:441][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:441][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:441][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:441][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:442][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:442][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-00.30.33:442][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.07-00.30.33:442][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:442][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:443][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget'
+[2017.11.07-00.30.33:443][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget' while loading NULL.
+[2017.11.07-00.30.33:443][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:443][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:444][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-00.30.33:444][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.07-00.30.33:444][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:444][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:444][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:444][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:445][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:445][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:445][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget'
+[2017.11.07-00.30.33:445][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget' while loading NULL.
+[2017.11.07-00.30.33:446][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:446][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:457][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:457][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:458][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:458][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:508][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:509][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:509][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:509][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:525][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:526][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:526][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:526][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:527][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:528][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:528][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:528][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:529][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:529][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:529][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:529][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:533][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:534][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:534][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:534][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:569][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:569][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:570][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:570][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:572][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:572][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:572][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:573][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:584][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:585][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:585][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:585][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:613][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:613][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:614][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:614][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:631][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2017.11.07-00.30.33:631][225]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.11.07-00.30.33:631][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2017.11.07-00.30.33:632][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:632][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:632][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageVolume'
+[2017.11.07-00.30.33:632][225]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/DamageVolume.DamageVolume_C Referenced by PersistentLevel
+[2017.11.07-00.30.33:633][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageVolume' while loading NULL.
+[2017.11.07-00.30.33:633][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:633][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:634][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'
+[2017.11.07-00.30.33:634][225]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C Referenced by PersistentLevel
+[2017.11.07-00.30.33:634][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter' while loading NULL.
+[2017.11.07-00.30.33:754][225]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget'
+[2017.11.07-00.30.33:755][225]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/MinimapRenderTarget.MinimapRenderTarget Referenced by SceneCapture2D_1
+[2017.11.07-00.30.33:755][225]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MinimapRenderTarget' while loading NULL.
+[2017.11.07-00.30.33:879][225]LogTexture: Display: Building textures: T_Cable_Emissive (AutoDXT, 2048X2048)
+[2017.11.07-00.30.33:882][225]LogLinker: Warning: Can't find file '/Game/Oroboros/Statics/Reactor_Large01/lambert1'
+[2017.11.07-00.30.33:883][225]LoadErrors: Failed to load /Game/Oroboros/Statics/Reactor_Large01/lambert1.lambert1 Referenced by SM_ModularWall_Vent01
+[2017.11.07-00.30.33:883][225]LogLinker: Warning: Can't find file for asset '/Game/Oroboros/Statics/Reactor_Large01/lambert1' while loading NULL.
+[2017.11.07-00.30.33:883][225]LogLinker: Warning: Can't find file '/Game/Oroboros/Statics/Reactor_Large01/lambert1'
+[2017.11.07-00.30.33:884][225]LogLinker: Warning: Can't find file for asset '/Game/Oroboros/Statics/Reactor_Large01/lambert1' while loading NULL.
+[2017.11.07-00.30.35:078][225]LogTexture: Display: Building textures: T_Cable_roughness (AutoDXT, 2048X2048)
+[2017.11.07-00.30.35:079][225]LogTexture: Display: Building textures: T_Cable_basecolor (AutoDXT, 2048X2048)
+[2017.11.07-00.30.35:079][225]LogTexture: Display: Building textures: T_Cable_Displacement (AutoDXT, 2048X2048)
+[2017.11.07-00.30.35:233][225]LogStaticMesh: Building static mesh Console01...
+[2017.11.07-00.30.35:254][225]LogStaticMesh: Built static mesh [0.13s] /Game/Oroboros/Statics/Matt/Consoles/Console01.Console01
+[2017.11.07-00.30.35:397][225]LogMaterial: Missing cached shader map for material phong1, compiling. 
+[2017.11.07-00.30.35:596][225]LogStaticMesh: Building static mesh SM_SciFiModular_Ceiling01...
+[2017.11.07-00.30.35:774][225]LogStaticMesh: Built static mesh [0.30s] /Game/Oroboros/Statics/Matt/Ceiling_Modular/SM_SciFiModular_Ceiling01.SM_SciFiModular_Ceiling01
+[2017.11.07-00.30.36:129][225]LogStaticMesh: Building static mesh SM_CableBar01...
+[2017.11.07-00.30.36:177][225]LogStaticMesh: Built static mesh [0.12s] /Game/Oroboros/Statics/Matt/CableWithBar/SM_CableBar01.SM_CableBar01
+[2017.11.07-00.30.36:448][225]LogTexture: Display: Building textures: T_Cable_AmbientOcclusion (AutoDXT, 2048X2048)
+[2017.11.07-00.30.36:620][225]LogTexture: Display: Building textures: T_Cable_normal (BC5, 2048X2048)
+[2017.11.07-00.30.36:620][225]LogStaticMesh: Building static mesh SM_SciFi_Floor_01...
+[2017.11.07-00.30.36:686][225]LogStaticMesh: Built static mesh [0.13s] /Game/Oroboros/Statics/Matt/MetalFloor_Modular/SM_SciFi_Floor_01.SM_SciFi_Floor_01
+[2017.11.07-00.30.36:869][225]LogStaticMesh: Building static mesh Console02...
+[2017.11.07-00.30.36:919][225]LogStaticMesh: Built static mesh [0.07s] /Game/Oroboros/Statics/Matt/Consoles/Console02.Console02
+[2017.11.07-00.30.37:186][225]LogTexture: Display: Building textures: T_Cable_metallic (AutoDXT, 2048X2048)
+[2017.11.07-00.30.38:585][225]LogStaticMesh: Building static mesh Reactor_Large01...
+[2017.11.07-00.30.38:818][225]LogStaticMesh: Built static mesh [0.23s] /Game/Oroboros/Statics/Matt/Reactor_Large01/Reactor_Large01.Reactor_Large01
+[2017.11.07-00.30.38:932][225]LogStaticMesh: Building static mesh SM_ModularWall_Vent01...
+[2017.11.07-00.30.38:986][225]LogStaticMesh: Built static mesh [0.08s] /Game/Oroboros/Statics/Matt/Wall_Modular/SM_ModularWall_Vent01.SM_ModularWall_Vent01
+[2017.11.07-00.30.39:077][225]LogStaticMesh: Building static mesh SM_Pipes...
+[2017.11.07-00.30.39:426][225]LogStaticMesh: Built static mesh [0.39s] /Game/Oroboros/Statics/Matt/PipeMetal_Rough/SM_Pipes.SM_Pipes
+[2017.11.07-00.30.39:467][225]LogStaticMesh: Building static mesh SM_ScifiStaircase01...
+[2017.11.07-00.30.39:538][225]LogStaticMesh: Built static mesh [0.10s] /Game/Oroboros/Statics/Matt/Staircase01/SM_ScifiStaircase01.SM_ScifiStaircase01
+[2017.11.07-00.30.39:624][225]LogMaterial: Missing cached shader map for material M_Cable, compiling. 
+[2017.11.07-00.30.39:884][225]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2017.11.07-00.30.39:963][225]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.11.07-00.30.40:334][225]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2017.11.07-00.30.40:433][225]LogMaterial: Missing cached shader map for material M_LightFloor, compiling. 
+[2017.11.07-00.30.40:497][225]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.11.07-00.30.40:586][225]LogMaterial: Missing cached shader map for material M_PipesRough, compiling. 
+[2017.11.07-00.30.40:864][225]LogMaterial: Missing cached shader map for material M_MetalFloor_Sides, compiling. 
+[2017.11.07-00.30.41:027][225]LogMaterial: Missing cached shader map for material M_MetalFloor_Bars, compiling. 
+[2017.11.07-00.30.41:087][225]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.30.41:297][225]Cmd: MAP LOAD FILE="../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-00.30.41:298][225]LightingResults: New page: Lighting Build
+[2017.11.07-00.30.41:299][225]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2017.11.07-00.30.41:356][225]MapCheck: New page: Map Check
+[2017.11.07-00.30.41:356][225]LightingResults: New page: Lighting Build
+[2017.11.07-00.30.41:639][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-00.30.42:870][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-00.30.43:371][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 501.26ms to complete.
+[2017.11.07-00.30.43:375][225]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.080
+[2017.11.07-00.30.43:383][225]LoadErrors: Error: /Game/Oroboros/Mats/MetalFloor/Glow/M_MetalFloor1 : Failed import for Material /Game/Oroboros/Mats/MetalFloor/Glow/M_MetalFloor1.M_MetalFloor1 [redirection] in /Game/Oroboros/Mats/MetalFloor/Glow/M_MetalFloor1 Referenced by export ObjectRedirector /Game/Oroboros/Mats/MetalFloor/Glow/M_MetalFloor1.M_MetalFloor1
+[2017.11.07-00.30.43:383][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Failed import for Material /Game/Oroboros/Mats/MetalFloor/Glow/M_MetalFloor1.M_MetalFloor1 [redirection] in /Game/PCTemp/Maps/ThirdPersonExampleMap Referenced by export Model /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Model_0 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_32 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_33 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_34 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_35 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_38 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_39 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_40 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_41 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_42 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_43 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_47 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush11.Model_1.Polys_59 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14.Model_1.Polys_102 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush16.Model_1.Polys_121 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush17.Model_0.Polys_127 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush19.Model_0.Polys_389 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush22.Model_0.Polys_47 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush26.Model_0.Polys_121 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush27.Model_0.Polys_133 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush30_12.Model_0.Polys_198 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush31.Model_0.Polys_182 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush32_15.Model_0.Polys_221 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush33_18.Model_0.Polys_277 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush34.Model_1.Polys_316 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush7.Model_0.Polys_2 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush8.Model_0.Polys_19 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush9.Model_1.Polys_33
+[2017.11.07-00.30.43:383][225]LoadErrors: Error: /Game/Oroboros/Mats/MetalFloor/M_MetalFloor : Failed import for Material /Game/Oroboros/Mats/MetalFloor/M_MetalFloor.M_MetalFloor [redirection] in /Game/Oroboros/Mats/MetalFloor/M_MetalFloor Referenced by export ObjectRedirector /Game/Oroboros/Mats/MetalFloor/M_MetalFloor.M_MetalFloor
+[2017.11.07-00.30.43:384][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Failed import for Material /Game/Oroboros/Mats/MetalFloor/M_MetalFloor.M_MetalFloor [redirection] in /Game/PCTemp/Maps/ThirdPersonExampleMap Referenced by export Model /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Model_0 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_32 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_33 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_42 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush2.Model_0.Polys_3 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush24.Model_0.Polys_78 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush25.Model_0.Polys_108 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush35.Model_0.Polys_401
+[2017.11.07-00.30.43:384][225]LoadErrors: Error: /Game/Oroboros/Mats/MetalPanel/M_PanelGlow : Failed import for Material /Game/Oroboros/Mats/MetalPanel/M_PanelGlow.M_PanelGlow [redirection] in /Game/Oroboros/Mats/MetalPanel/M_PanelGlow Referenced by export ObjectRedirector /Game/Oroboros/Mats/MetalPanel/M_PanelGlow.M_PanelGlow
+[2017.11.07-00.30.43:384][225]LoadErrors: Error: /Game/PCTemp/Maps/ThirdPersonExampleMap : Failed import for Material /Game/Oroboros/Mats/MetalPanel/M_PanelGlow.M_PanelGlow [redirection] in /Game/PCTemp/Maps/ThirdPersonExampleMap Referenced by export Model /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Model_0 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_41 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_42 Referenced by export ModelComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_44 Referenced by export Polys /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush21.Model_0.Polys_15 Referenced by export StaticMeshComponent /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Floor_1.StaticMeshComponent0
+[2017.11.07-00.30.43:384][225]LoadErrors: Error: /Game/Oroboros/Statics/Matt/MetalFloor_Modular/SM_SciFi_Floor_01 : Failed import for Material /Game/Oroboros/Mats/MetalFloor/M_MetalFloor.M_MetalFloor [redirection] in /Game/Oroboros/Statics/Matt/MetalFloor_Modular/SM_SciFi_Floor_01 Referenced by export StaticMesh /Game/Oroboros/Statics/Matt/MetalFloor_Modular/SM_SciFi_Floor_01.SM_SciFi_Floor_01
+[2017.11.07-00.30.43:384][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': ThirdPersonCharacter_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+[2017.11.07-00.30.43:384][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': DamageVolume_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.DamageVolume_395
+[2017.11.07-00.30.43:384][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FollowCamera': ThirdPersonCharacter_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+[2017.11.07-00.30.43:384][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': ThirdPersonCharacter_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+[2017.11.07-00.30.43:384][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': ThirdPersonCharacter_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+[2017.11.07-00.30.43:385][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': DamageVolume_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.DamageVolume_395
+[2017.11.07-00.30.43:385][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': ThirdPersonCharacter_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+[2017.11.07-00.30.43:385][225]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CameraBoom': ThirdPersonCharacter_C /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+[2017.11.07-00.31.09:666][542]LoadErrors: Error: /Game/Oroboros/MetalFloor/Glow/M_MetalFloor1 : Failed import for Material /Game/Oroboros/Mats/MetalFloor/Glow/M_MetalFloor1.M_MetalFloor1 [redirection] in /Game/Oroboros/MetalFloor/Glow/M_MetalFloor1 Referenced by export ObjectRedirector /Game/Oroboros/MetalFloor/Glow/M_MetalFloor1.M_MetalFloor1
+[2017.11.07-00.33.50:184][696]MapCheck: New page: Map Check
+[2017.11.07-00.33.50:319][696]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.07-00.33.50:345][696]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.07-00.33.53:637][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.07-00.33.53:646][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HelpActorMaterial, compiling. 
+[2017.11.07-00.33.53:700][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2017.11.07-00.33.53:775][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2017.11.07-00.33.53:785][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2017.11.07-00.33.53:857][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.11.07-00.33.53:918][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy phong1, compiling. 
+[2017.11.07-00.33.53:967][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2017.11.07-00.33.53:976][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PipesRough, compiling. 
+[2017.11.07-00.33.53:984][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalFloor_Bars, compiling. 
+[2017.11.07-00.33.54:018][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightFloor, compiling. 
+[2017.11.07-00.33.54:091][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_MetalFloor_Sides, compiling. 
+[2017.11.07-00.33.54:202][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Cable, compiling. 
+[2017.11.07-00.33.54:210][696]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Invis, compiling. 
+[2017.11.07-00.33.55:461][696]TextureStreamingBuild: Display: Compiling optional shaders took 1.875 seconds.
+[2017.11.07-00.33.55:554][696]LogLevel: Display: Export Material TexCoord Scales took 0.093 seconds.
+[2017.11.07-00.33.55:600][696]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2017.11.07-00.33.55:685][696]LightingResults: New page: Lighting Build - Nov 6, 2017, 8:33:55 AM
+[2017.11.07-00.33.59:729][696]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.07-00.34.00:887][696]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.07-00.34.02:483][696]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.07-00.34.05:969][696]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2017.11.07-00.34.06:118][696]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2017.11.07-00.34.11:815][696]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.07-00.34.11:815][696]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7780
+[2017.11.07-00.34.19:729][696]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.07-00.34.19:729][696]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.07-00.34.19:730][696]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.07-00.34.19:730][696]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.07-00.34.19:730][696]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.07-00.34.20:865][696]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.07-00.34.20:865][696]MapCheck: New page: ThirdPersonExampleMap - Nov 6, 2017, 8:34:20 AM
+[2017.11.07-00.34.20:962][696]MapCheck: Warning: SM_HealthPanel_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.11.07-00.34.20:962][696]MapCheck: Warning: SM_HealthPanel_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2017.11.07-00.34.21:075][696]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2017.11.07-00.34.21:306][696]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 440.098ms to complete.
+[2017.11.07-00.34.21:329][696]LogEditorBuildUtils: Build time 0:31
+[2017.11.07-00.34.21:441][696]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2017.11.07-00.34.21:482][696]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2017.11.07-00.34.21:618][697]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2017.11.07-00.34.21:661][697]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2017.11.07-00.34.21:975][698]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2017.11.07-00.34.22:018][698]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2017.11.07-00.34.22:066][699]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2017.11.07-00.34.22:092][699]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer phong1, compiling. 
+[2017.11.07-00.34.22:127][700]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2017.11.07-00.34.22:172][700]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2017.11.07-00.34.22:210][701]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PipesRough, compiling. 
+[2017.11.07-00.34.22:241][701]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_PipesRough, compiling. 
+[2017.11.07-00.34.22:290][702]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MetalFloor_Bars, compiling. 
+[2017.11.07-00.34.22:301][702]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MetalFloor_Bars, compiling. 
+[2017.11.07-00.34.22:361][703]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_LightFloor, compiling. 
+[2017.11.07-00.34.22:429][703]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_LightFloor, compiling. 
+[2017.11.07-00.34.22:590][704]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MetalFloor_Sides, compiling. 
+[2017.11.07-00.34.22:603][704]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_MetalFloor_Sides, compiling. 
+[2017.11.07-00.34.22:670][705]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.07-00.34.22:716][705]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.07-00.34.22:900][706]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Cable, compiling. 
+[2017.11.07-00.34.22:949][706]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Cable, compiling. 
+[2017.11.07-00.34.42:030][761]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.42:030][761]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.42:360][762]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.42:360][762]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.42:360][762]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.42:360][762]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.43:028][764]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.43:028][764]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.43:028][764]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.43:028][764]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.43:697][766]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.43:697][766]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.43:697][766]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.43:697][766]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.44:025][767]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.44:025][767]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.44:364][768]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.44:364][768]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.44:690][769]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.44:690][769]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.45:029][770]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.45:029][770]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.45:696][772]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.45:696][772]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.46:026][773]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.46:026][773]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.46:362][774]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.46:362][774]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.46:699][775]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.46:699][775]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.46:699][775]LightingResults: Warning: SM_SciFiModular_Ceiling01 Object has overlapping UVs.
+[2017.11.07-00.34.46:699][775]LightingResults: SM_SciFiModular_Ceiling01 Lightmap UV are overlapping by 63.5%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.07-00.34.59:026][812]Job is a success!
+[2017.11.07-00.34.59:553][813]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.124s
+[2017.11.07-00.34.59:554][813]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.07-00.34.59:554][813]LogVolumetricLightmapImport:      BrickData 195x5x5 = 0.1Mb
+[2017.11.07-00.34.59:554][813]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.07-00.34.59:554][813]LogVolumetricLightmapImport:          0: 2.6% covering 100.0% of volume
+[2017.11.07-00.34.59:554][813]LogVolumetricLightmapImport:          1: 7.7% covering 4.7% of volume
+[2017.11.07-00.34.59:554][813]LogVolumetricLightmapImport:          2: 89.7% covering 0.9% of volume
+[2017.11.07-00.35.00:948][813]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.07-00.35.00:948][813]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2017.11.07-00.35.00:948][813]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.07-00.35.00:949][813]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2017.11.07-00.35.00:949][813]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2017.11.07-00.35.00:949][813]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2017.11.07-00.35.01:531][813]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2017.11.07-00.35.01:531][813]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2017.11.07-00.35.09:744][813]Lightmass on DESKTOP-3MUQ1P5: 29.7 sec total, 457 ms importing, 300 ms setup, 2.97 sec photons, 25.5 sec processing, 0 ms extra exporting [300/300 mappings]. Threads: 2:58 min total, 1:26 min processing.
+[2017.11.07-00.35.10:060][813]LogStaticLightingSystem: Illumination: 1:14 min (1.01 sec encoding lightmaps, 581 ms encoding shadowmaps)
+[2017.11.07-00.35.10:061][813]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (2.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2017.11.07-00.35.10:061][813]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (2.7 MB streaming, 2.7 MB non-streaming), 2 textures
+[2017.11.07-00.35.10:719][813]DumpUnbuiltLightIteractions
+[2017.11.07-00.35.10:719][813]Lights with unbuilt interactions: 0
+[2017.11.07-00.35.10:720][813]
+[2017.11.07-00.35.10:720][813]Primitives with unbuilt interactions: 0
+[2017.11.07-00.35.10:780][814]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.07-00.35.10:780][814]MapCheck: New page: ThirdPersonExampleMap - Nov 6, 2017, 8:35:10 AM
+[2017.11.07-00.35.10:781][814]MapCheck: Warning: SM_HealthPanel_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.11.07-00.35.10:781][814]MapCheck: Warning: SM_HealthPanel_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2017.11.07-00.35.11:051][814]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 271.056ms to complete.
+[2017.11.07-00.36.27:972][898]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-00.36.28:741][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.36.28:796][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-00.36.28:883][898]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 6, 2017, 8:36:28 AM)
+[2017.11.07-00.36.28:892][898]LogPlayLevel: Creating play world package: /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.07-00.36.29:088][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195363s)
+[2017.11.07-00.36.29:113][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.36.29:135][898]LogPlayLevel: PIE: World Init took: (0.023562s)
+[2017.11.07-00.36.29:158][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.265253s)
+[2017.11.07-00.36.29:284][898]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.36.29:302][898]LogInit: FAudioDevice initialized.
+[2017.11.07-00.36.29:480][898]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2017.11.07-00.36.29:481][898]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2017.11.07-00.36.29:502][898]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2017.11.07-00.36.29:502][898]LogLoad: Game class is 'GameModeBase'
+[2017.11.07-00.36.29:753][898]LogWorld: Bringing World /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.06-16.36.29
+[2017.11.07-00.36.29:802][898]LogWorld: Bringing up level for play took: 0.070322
+[2017.11.07-00.36.30:556][898]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.11.07-00.36.30:672][898]PIE: Play in editor start time for /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap 1.563
+[2017.11.07-00.36.30:673][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.36.36:472][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.36.37:170][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.36.43:804][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.43:804][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset.
+[2017.11.07-00.36.43:804][241]LoadErrors: Error: /Game/PCTemp/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/MiniCam
+[2017.11.07-00.36.44:230][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:230][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset.
+[2017.11.07-00.36.44:230][241]LoadErrors: Error: /Game/PCTemp/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/DamageEffect
+[2017.11.07-00.36.44:230][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/FPSHUD'
+[2017.11.07-00.36.44:230][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/FPSHUD' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset.
+[2017.11.07-00.36.44:230][241]LoadErrors: Error: /Game/PCTemp/Blueprints/ThirdPersonCharacter : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/FPSHUD
+[2017.11.07-00.36.44:231][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:231][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset.
+[2017.11.07-00.36.44:232][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:232][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset.
+[2017.11.07-00.36.44:232][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/FPSHUD'
+[2017.11.07-00.36.44:232][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/FPSHUD' while loading ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset.
+[2017.11.07-00.36.44:253][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:253][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:259][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:259][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading NULL.
+[2017.11.07-00.36.44:259][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:259][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:259][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/FPSHUD'
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/FPSHUD' while loading NULL.
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading NULL.
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/FPSHUD'
+[2017.11.07-00.36.44:260][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/FPSHUD' while loading NULL.
+[2017.11.07-00.36.44:267][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/FPSHUD'
+[2017.11.07-00.36.44:267][241]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD_C Referenced by K2Node_CreateWidget_0
+[2017.11.07-00.36.44:268][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/FPSHUD' while loading NULL.
+[2017.11.07-00.36.44:268][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/FPSHUD'
+[2017.11.07-00.36.44:268][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/FPSHUD' while loading NULL.
+[2017.11.07-00.36.44:269][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:269][241]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/MiniCam.MiniCam_C Referenced by K2Node_CallFunction_124
+[2017.11.07-00.36.44:269][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading NULL.
+[2017.11.07-00.36.44:269][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:269][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading NULL.
+[2017.11.07-00.36.44:270][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:270][241]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/MiniCam.MiniCam_C Referenced by K2Node_DynamicCast_6
+[2017.11.07-00.36.44:270][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading NULL.
+[2017.11.07-00.36.44:270][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/MiniCam'
+[2017.11.07-00.36.44:270][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/MiniCam' while loading NULL.
+[2017.11.07-00.36.44:272][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:272][241]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/DamageEffect.DamageEffect_C Referenced by K2Node_CreateWidget_0
+[2017.11.07-00.36.44:273][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:273][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:273][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:275][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:275][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:275][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:275][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:277][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:278][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:278][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:278][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:280][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:280][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:280][241]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/DamageEffect'
+[2017.11.07-00.36.44:281][241]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/DamageEffect' while loading NULL.
+[2017.11.07-00.36.44:393][241]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.36.44:394][241]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.36.44:396][241]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.36.44:397][241]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.36.44:442][241]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1254.25] Compile of ThirdPersonCharacter failed. 4 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/PCTemp/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.11.07-00.36.44:809][241]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.11.07-00.36.45:037][241]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.11.07-00.36.50:875][376]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-00.36.50:905][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.36.50:906][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-00.37.16:136][892]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-00.37.16:158][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.37.16:158][892]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.07-00.37.16:219][892]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.11.07-00.37.16:265][892]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.37.16:266][892]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.37.16:268][892]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.37.16:269][892]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  Create Widget  must have a class specified.
+[2017.11.07-00.37.16:314][892]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [1286.12] Compile of ThirdPersonCharacter failed. 4 Fatal Issue(s) 0 Warning(s) [in 111 ms] (/Game/PCTemp/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.11.07-00.37.17:974][892]LogPlayLevel: PlayLevel: Blueprint regeneration took 1816 ms (1 blueprints)
+[2017.11.07-00.37.17:974][892]BlueprintLog: Blueprint ThirdPersonCharacter failed to compile
+[2017.11.07-00.37.19:038][892]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 6, 2017, 8:37:19 AM)
+[2017.11.07-00.37.19:038][892]LogPlayLevel: Creating play world package: /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.07-00.37.19:089][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051050s)
+[2017.11.07-00.37.19:090][892]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.37.19:090][892]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2017.11.07-00.37.19:091][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053341s)
+[2017.11.07-00.37.19:121][892]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.37.19:139][892]LogInit: FAudioDevice initialized.
+[2017.11.07-00.37.19:175][892]LogLoad: Game class is 'GameModeBase'
+[2017.11.07-00.37.19:201][892]LogWorld: Bringing World /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.06-16.37.19
+[2017.11.07-00.37.19:301][892]LogWorld: Bringing up level for play took: 0.125587
+[2017.11.07-00.37.19:304][892]PIE: Play in editor start time for /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap 2.194
+[2017.11.07-00.37.19:304][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.37.22:030][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.37.22:093][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.37.52:829][872]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.07-00.38.01:462][128]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.01:463][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-00.38.01:463][128]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 6, 2017, 8:38:01 AM)
+[2017.11.07-00.38.01:463][128]LogPlayLevel: Creating play world package: /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.07-00.38.01:518][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054766s)
+[2017.11.07-00.38.01:519][128]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.38.01:519][128]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2017.11.07-00.38.01:519][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.056453s)
+[2017.11.07-00.38.01:547][128]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.38.01:566][128]LogInit: FAudioDevice initialized.
+[2017.11.07-00.38.01:615][128]LogLoad: Game class is 'GameModeBase'
+[2017.11.07-00.38.01:624][128]LogWorld: Bringing World /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.06-16.38.01
+[2017.11.07-00.38.01:625][128]LogWorld: Bringing up level for play took: 0.009174
+[2017.11.07-00.38.01:627][128]PIE: Play in editor start time for /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap 0.517
+[2017.11.07-00.38.01:627][128]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.04:900][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.04:969][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.06:544][267]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.07-00.38.11:009][394]Cmd: DELETE
+[2017.11.07-00.38.11:009][394]Cmd: ACTOR DELETE
+[2017.11.07-00.38.11:131][394]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2017.11.07-00.38.11:152][394]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2017.11.07-00.38.34:859][604]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2017.11.07-00.38.42:026][860]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-00.38.42:057][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.42:057][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-00.38.42:057][860]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 6, 2017, 8:38:42 AM)
+[2017.11.07-00.38.42:057][860]LogPlayLevel: Creating play world package: /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.07-00.38.42:119][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061703s)
+[2017.11.07-00.38.42:120][860]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.38.42:121][860]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2017.11.07-00.38.42:121][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.063657s)
+[2017.11.07-00.38.42:150][860]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.38.42:167][860]LogInit: FAudioDevice initialized.
+[2017.11.07-00.38.42:204][860]LogLoad: Game class is 'GameModeBase'
+[2017.11.07-00.38.42:212][860]LogWorld: Bringing World /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.06-16.38.42
+[2017.11.07-00.38.42:212][860]LogWorld: Bringing up level for play took: 0.007743
+[2017.11.07-00.38.42:214][860]PIE: Play in editor start time for /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap 1.105
+[2017.11.07-00.38.42:215][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.51:511][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.51:568][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.53:829][266]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-00.38.53:853][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.38.53:854][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-00.38.53:854][266]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 6, 2017, 8:38:53 AM)
+[2017.11.07-00.38.53:854][266]LogPlayLevel: Creating play world package: /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.07-00.38.53:912][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057675s)
+[2017.11.07-00.38.53:913][266]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.38.53:913][266]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2017.11.07-00.38.53:914][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.059561s)
+[2017.11.07-00.38.53:950][266]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.38.53:968][266]LogInit: FAudioDevice initialized.
+[2017.11.07-00.38.54:002][266]LogLoad: Game class is 'GameModeBase'
+[2017.11.07-00.38.54:013][266]LogWorld: Bringing World /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.06-16.38.54
+[2017.11.07-00.38.54:013][266]LogWorld: Bringing up level for play took: 0.010640
+[2017.11.07-00.38.54:016][266]PIE: Play in editor start time for /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap 0.906
+[2017.11.07-00.38.54:016][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.39.09:641][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.39.09:705][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.39.29:622][598]LogEditorViewport: Clicking on Actor (LMB): LockerDoor_C (LockerDoor)
+[2017.11.07-00.40.06:788][762]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-00.40.06:819][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.40.06:819][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-00.40.06:819][762]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 6, 2017, 8:40:06 AM)
+[2017.11.07-00.40.06:819][762]LogPlayLevel: Creating play world package: /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.07-00.40.06:871][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051906s)
+[2017.11.07-00.40.06:872][762]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.07-00.40.06:873][762]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2017.11.07-00.40.06:873][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053965s)
+[2017.11.07-00.40.06:905][762]LogInit: XAudio2 using 'Speakers (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-00.40.06:922][762]LogInit: FAudioDevice initialized.
+[2017.11.07-00.40.06:956][762]LogLoad: Game class is 'GameModeBase'
+[2017.11.07-00.40.06:964][762]LogWorld: Bringing World /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.06-16.40.06
+[2017.11.07-00.40.06:964][762]LogWorld: Bringing up level for play took: 0.007440
+[2017.11.07-00.40.06:966][762]PIE: Play in editor start time for /Game/PCTemp/Maps/UEDPIE_0_ThirdPersonExampleMap -0.143
+[2017.11.07-00.40.06:967][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.41.06:777][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.41.06:845][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.07-00.42.56:758][250]LogSavePackage: Save=1219.40ms
+[2017.11.07-00.42.56:759][250]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap_Auto1B125157A453CECDC2B231C81B8C482A8.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.11.07-00.42.56:764][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.11.07-00.42.56:888][250]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PCTemp/Maps/ThirdPersonExampleMap' took 1.627
+[2017.11.07-00.42.56:888][250]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.627
+[2017.11.07-00.42.57:237][250]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X512)
+[2017.11.07-00.42.57:237][250]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X512)
+[2017.11.07-00.42.57:237][250]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PCTemp/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2017.11.07-00.42.57:237][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCTemp/Maps/ThirdPersonExampleMap_BuiltData]
+[2017.11.07-00.42.58:396][250]LogSavePackage: Save=35.91ms
+[2017.11.07-00.42.58:396][250]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap_BuiltData_8582C26D4FF3197F1946A08C07FF1CB9.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2017.11.07-00.42.58:403][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2017.11.07-00.42.58:505][250]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PCTemp/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.07-00.42.58:578][250]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PCTemp/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.07-00.42.58:578][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCTemp/Blueprints/ThirdPersonCharacter]
+[2017.11.07-00.42.58:906][250]LogSavePackage: Save=302.24ms
+[2017.11.07-00.42.58:906][250]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonCharacter_Auto1D4D6217B494C7E6FEE9EC895FF50A3CB.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.11.07-00.42.58:912][250]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.11.07-00.42.58:912][250]LogFileHelpers: Auto-saving content packages took 1.984
+[2017.11.07-00.46.27:008][842]LogSavePackage: Save=1107.13ms
+[2017.11.07-00.46.27:008][842]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap145E3C504BAB60B22DE02D95D7928418.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap'
+[2017.11.07-00.46.27:020][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap
+[2017.11.07-00.46.27:098][842]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.466
+[2017.11.07-00.46.27:410][842]LogSavePackage: Save=288.95ms
+[2017.11.07-00.46.27:410][842]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap_BuiltData9B54EC4F462575074AA5C78A3BDDC294.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.07-00.46.27:422][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.07-00.46.27:639][842]LogSavePackage: Save=192.86ms
+[2017.11.07-00.46.27:639][842]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonCharacter487ADE79424A5AD4840C5F906E611C93.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.07-00.46.27:647][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.07-16.40.23:596][ 81]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.11.07-16.40.26:119][ 83]LogHttp: Warning: 00000223CC202E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.07-16.40.26:119][ 83]LogHttp: Warning: 00000223CC202E00: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2017.11.07-16.40.26:119][ 83]LogHttp: Warning: 00000223CC202E00: libcurl info message cache 1 (Closing connection 12)
+[2017.11.07-16.40.26:119][ 83]LogHttp: Warning: 00000223CC202E00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.07-16.40.26:119][ 83]LogHttp: Warning: 00000223CC202E00: libcurl info message cache 3 (Closing connection 13)
+[2017.11.07-16.40.32:157][ 94]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.11.07-16.41.53:844][496]LogRenderer: Reallocating scene render targets to support 992x704 Format 10 NumSamples 1 (Frame:13807).
+[2017.11.07-16.41.53:924][497]LogRenderer: Reallocating scene render targets to support 1024x704 Format 10 NumSamples 1 (Frame:13809).
+[2017.11.07-16.41.54:221][498]LogRenderer: Reallocating scene render targets to support 1032x704 Format 10 NumSamples 1 (Frame:13811).
+[2017.11.07-16.41.54:416][499]LogRenderer: Reallocating scene render targets to support 1060x704 Format 10 NumSamples 1 (Frame:13812).
+[2017.11.07-16.41.54:521][499]LogRenderer: Reallocating scene render targets to support 1084x704 Format 10 NumSamples 1 (Frame:13814).
+[2017.11.07-16.41.54:699][501]LogRenderer: Reallocating scene render targets to support 1088x704 Format 10 NumSamples 1 (Frame:13816).
+[2017.11.07-16.41.55:039][509]LogRenderer: Reallocating scene render targets to support 1092x704 Format 10 NumSamples 1 (Frame:13825).
+[2017.11.07-16.41.55:173][510]LogRenderer: Reallocating scene render targets to support 1096x704 Format 10 NumSamples 1 (Frame:13827).
