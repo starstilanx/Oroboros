@@ -2876,3 +2876,103 @@ Exception rethrown at [0]:
 [2017.11.09-17.37.35:466][874]LogSavePackage: Save=30.35ms
 [2017.11.09-17.37.35:466][874]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/RecordedSequence1BBB046F452A139620FCD49E97959921.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Cinematics/Sequences/RecordedSequence.uasset'
 [2017.11.09-17.37.35:476][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Cinematics/Sequences/RecordedSequence.uasset
+[2017.11.09-17.44.01:033][989]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Arakk/Dropbox/Ouroboros Space Station/3D Asset Folder/Environment/Locker Base/SM_LockerBase.fbx)
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: NodeAttribute, ItemCount : 10
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: Model, ItemCount : 11
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.09-17.44.01:448][989]LogFbx: ItemName: Material, ItemCount : 1
+[2017.11.09-17.44.01:499][989]LogFbx: Loading FBX Scene from ../../../../../../Users/Arakk/Dropbox/Ouroboros Space Station/3D Asset Folder/Environment/Locker Base/SM_LockerBase.fbx
+[2017.11.09-17.44.01:576][989]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.09-17.52.48:657][989]LogFbx: Loading FBX Scene from ../../../../../../Users/Arakk/Dropbox/Ouroboros Space Station/3D Asset Folder/Environment/Locker Base/SM_LockerBase.fbx
+[2017.11.09-17.52.48:672][989]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.09-17.52.48:928][989]LogFbx: Warning: Triangulating static mesh pCube8
+[2017.11.09-17.52.49:107][989]LogStaticMesh: Building static mesh SM_LockerBase...
+[2017.11.09-17.52.49:208][989]LogStaticMesh: Built static mesh [0.12s] /Game/Oroboros/Statics/Michael/Locker/SM_LockerBase.SM_LockerBase
+[2017.11.09-17.52.52:296][ 58]LogActorFactory: Actor Factory created SM_LockerBase
+[2017.11.09-17.52.55:420][164]LogActorFactory: Actor Factory created SM_LockerBase
+[2017.11.09-17.53.21:171][964]LogSavePackage: Save=1565.32ms
+[2017.11.09-17.53.21:172][964]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap_Auto4E9C192DC48703FB69D7F1C8CC2F58F86.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2017.11.09-17.53.21:179][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto4.umap
+[2017.11.09-17.53.21:191][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PCTemp/Maps/ThirdPersonExampleMap' took 1.738
+[2017.11.09-17.53.21:191][964]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.738
+[2017.11.09-17.53.21:223][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase] ([1] browsable assets)...
+[2017.11.09-17.53.21:320][964]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Oroboros/Statics/Michael/Locker/SM_LockerBase.SM_LockerBase]
+[2017.11.09-17.53.21:320][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase]
+[2017.11.09-17.53.21:507][964]LogSavePackage: Save=183.06ms
+[2017.11.09-17.53.21:507][964]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/SM_LockerBase_Auto4F5E2A9994C2C09E6A84EC495E19F8E8B.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase_Auto4.uasset'
+[2017.11.09-17.53.21:513][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase_Auto4.uasset
+[2017.11.09-17.53.21:513][964]LogFileHelpers: Auto-saving content packages took 0.318
+[2017.11.09-17.54.07:991][862]LogStaticMesh: Building static mesh SM_LockerBase...
+[2017.11.09-17.54.08:011][862]LogStaticMesh: Built static mesh [0.05s] /Game/Oroboros/Statics/Michael/Locker/SM_LockerBase.SM_LockerBase
+[2017.11.09-17.54.29:276][505]Cmd: EDIT COPY
+[2017.11.09-17.54.30:023][505]Cmd: EDIT PASTE
+[2017.11.09-17.54.44:410][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase2)
+[2017.11.09-17.54.46:594][ 90]Cmd: EDIT COPY
+[2017.11.09-17.54.46:862][100]Cmd: EDIT PASTE
+[2017.11.09-17.55.17:821][150]Cmd: EDIT COPY
+[2017.11.09-17.55.17:984][156]Cmd: EDIT PASTE
+[2017.11.09-17.56.01:996][684]Cmd: EDIT COPY
+[2017.11.09-17.56.02:202][691]Cmd: EDIT PASTE
+[2017.11.09-17.56.14:047][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase6)
+[2017.11.09-17.59.00:971][273]Cmd: EDIT COPY
+[2017.11.09-17.59.01:154][278]Cmd: EDIT PASTE
+[2017.11.09-17.59.04:278][382]Cmd: TRANSACTION UNDO
+[2017.11.09-17.59.04:278][382]LogEditorTransaction: Undo Move Actors
+[2017.11.09-17.59.04:318][382]LogActorComponent: ~FComponentReregisterContext: (/Game/PCTemp/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.SM_LockerBase22.StaticMeshComponent0) Component already registered.
+[2017.11.09-17.59.13:955][701]Cmd: EDIT COPY
+[2017.11.09-17.59.14:149][708]Cmd: EDIT PASTE
+[2017.11.09-17.59.26:234][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase25)
+[2017.11.09-18.01.03:095][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase20)
+[2017.11.09-18.01.22:231][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase5)
+[2017.11.09-18.03.23:958][678]LogSavePackage: Save=1812.27ms
+[2017.11.09-18.03.23:958][678]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap_Auto5ADD58C214E496D2F2C471994BB77BD3F.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2017.11.09-18.03.23:965][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto5.umap
+[2017.11.09-18.03.23:975][678]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PCTemp/Maps/ThirdPersonExampleMap' took 2.221
+[2017.11.09-18.03.23:975][678]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.221
+[2017.11.09-18.03.23:983][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase] ([1] browsable assets)...
+[2017.11.09-18.03.24:008][678]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Oroboros/Statics/Michael/Locker/SM_LockerBase.SM_LockerBase]
+[2017.11.09-18.03.24:008][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase]
+[2017.11.09-18.03.24:054][678]LogSavePackage: Save=17.86ms
+[2017.11.09-18.03.24:054][678]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/SM_LockerBase_Auto5A5BFF51B4B5CDA173FA0F9A45EC1BEF5.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase_Auto5.uasset'
+[2017.11.09-18.03.24:059][678]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/Oroboros/Statics/Michael/Locker/SM_LockerBase_Auto5.uasset
+[2017.11.09-18.03.24:059][678]LogFileHelpers: Auto-saving content packages took 0.080
+[2017.11.09-18.04.03:234][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase3)
+[2017.11.09-18.04.07:347][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase2)
+[2017.11.09-18.04.08:742][299]Cmd: DELETE
+[2017.11.09-18.04.08:742][299]Cmd: ACTOR DELETE
+[2017.11.09-18.04.08:780][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.09-18.04.08:825][299]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2017.11.09-18.04.09:315][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase9)
+[2017.11.09-18.04.09:800][334]Cmd: DELETE
+[2017.11.09-18.04.09:800][334]Cmd: ACTOR DELETE
+[2017.11.09-18.04.09:836][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.09-18.04.09:854][334]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2017.11.09-18.04.11:064][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase10)
+[2017.11.09-18.04.11:335][391]Cmd: DELETE
+[2017.11.09-18.04.11:336][391]Cmd: ACTOR DELETE
+[2017.11.09-18.04.11:346][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.09-18.04.11:365][391]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2017.11.09-18.04.12:028][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase17)
+[2017.11.09-18.04.12:377][429]Cmd: DELETE
+[2017.11.09-18.04.12:377][429]Cmd: ACTOR DELETE
+[2017.11.09-18.04.12:392][429]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.09-18.04.12:424][429]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2017.11.09-18.04.12:881][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase3)
+[2017.11.09-18.04.58:474][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase3)
+[2017.11.09-18.05.20:763][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase16)
+[2017.11.09-18.05.22:711][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_LockerBase11)
+[2017.11.09-18.13.25:805][896]LogSavePackage: Save=1550.82ms
+[2017.11.09-18.13.25:805][896]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap_Auto63EF1FDD7414A0CD5284D00B95ED21B56.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2017.11.09-18.13.25:813][896]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/Autosaves/Game/PCTemp/Maps/ThirdPersonExampleMap_Auto6.umap
+[2017.11.09-18.13.25:825][896]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PCTemp/Maps/ThirdPersonExampleMap' took 1.629
+[2017.11.09-18.13.25:825][896]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.629
+[2017.11.09-18.30.15:012][253]LogSavePackage: Save=1546.08ms
+[2017.11.09-18.30.15:012][253]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/ThirdPersonExampleMap29FEE3674366B11ED400FFBE8DCF9BE9.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap'
+[2017.11.09-18.30.15:025][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/PCTemp/Maps/ThirdPersonExampleMap.umap
+[2017.11.09-18.30.15:279][253]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 2.158
+[2017.11.09-18.30.15:332][253]LogSavePackage: Save=17.48ms
+[2017.11.09-18.30.15:332][253]LogSavePackage: Moving '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Saved/SM_LockerBaseD4E595C74BFB25632D9B369ED6FF8AD0.tmp' to '../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Oroboros/Statics/Michael/Locker/SM_LockerBase.uasset'
+[2017.11.09-18.30.15:343][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Arakk/Dropbox/3DwithMattAndMiles/Oroboros/Oroboros/Content/Oroboros/Statics/Michael/Locker/SM_LockerBase.uasset
